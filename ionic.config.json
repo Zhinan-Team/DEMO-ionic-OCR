@@ -1,0 +1,7 @@
+{
+  "name": "testOcr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
